@@ -2,7 +2,7 @@ var debug = false; //if true, ammo swap data is shown in console
 
 Events.on(ClientLoadEvent, () => {
   var it = Vars.content.blocks().select(b => b instanceof ItemTurret);
-  var lt = Vars.content.blocks().select(b => b instanceof LiquidTurret);
+  var lt = Vars.content.blocks().select(b => b instanceof LiquidTurret || b instanceof ContinuousLiquidTurret);
   var itAmmo = new Seq();
   var ltAmmo = new Seq();
   it.each(t => {
