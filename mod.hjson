@@ -3,6 +3,6 @@ displayName: Ammo Swap
 subtitle: Swaps ammo of turrets.
 description: "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign."
 author: Mythril
-version: 0.1
+version: 0.2
 minGameVersion: 136
 repo: Mythril382/AmmoSwap
