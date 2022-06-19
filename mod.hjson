@@ -1,7 +1,7 @@
 name: ammo-swap
 displayName: Ammo Swap
 subtitle: Swaps ammo of turrets.
-description: "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign."
+description: "Swaps ammo of turrets.\nThis is cursed. Don't play this in campaign.\n\nCreate a new save for every game when using this mod. Loading a save has a 90% chance to crash your game."
 author: Mythril
 version: 0.3
 minGameVersion: 136
